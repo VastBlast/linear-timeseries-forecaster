@@ -1,0 +1,19 @@
+{
+  "name": "linear-timeseries-forecaster",
+  "version": "1.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "keywords": [
+    "timeseries",
+    "forecasting",
+    "linear"
+  ],
+  "author": "VastBlast",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
